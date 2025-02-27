@@ -1,0 +1,773 @@
+fileFormatVersion: 2
+guid: d39020a6dc16746c28dd12c5334a61d1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1419
+        width: 517
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f595feb9917447c82d082b11f7f672
+      internalID: -547458513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_1
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1675
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28b61527d59940f68450e9f955eaedd
+      internalID: -696324257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_2
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1421
+        width: 526
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22fad74803914eb8b2fab04eb22143a
+      internalID: -494663470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_3
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1421
+        width: 518
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9862a109ff74dc8ba5138d5368ac38
+      internalID: -496427373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1215
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2005ce95abf44f1ebfe4310832c369b
+      internalID: -869578233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1247
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7404e14a4634f92b52cafb92ca9e28
+      internalID: -1147845363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1233
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b290e6d819940f5913a058e6b27b96
+      internalID: -1550544394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1236
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1251c4a14149e41ae8f3cd265e5a4796
+      internalID: 1164898954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_8
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 749
+        width: 525
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44ee6e18366a4e0697f6fc37c7b1e61
+      internalID: -1298207267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_9
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 749
+        width: 513
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9dcb7c7ddac4ffa9174b48a86c40bd
+      internalID: 616176104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 749
+        width: 507
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5548e4d29f4478cb379356e83c7fad
+      internalID: -245434727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1086
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de9cf46c70da43acbfe70d61a3bed9e
+      internalID: -602827804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1080
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ce1ada23505493a943272d8b6c7a02
+      internalID: 297169450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1082
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83b59d9cc07d41c1bd7cbc87556d70b
+      internalID: 1094159088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1035
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ec4ebfca31f4943b7807081c9e943a
+      internalID: -1978301585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_15
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1049
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6382e6e3f474582bc2f7c91e472255
+      internalID: 1113826954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_16
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1004
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746f4d3c9c70242d8b8a568125f8f444
+      internalID: -2077816648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 757
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deb558644cb54f448767a1c95d7c3a5
+      internalID: -1489729529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_18
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 73
+        width: 527
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb8fc2ab5b1c4d0395d34ed26e8e7e2
+      internalID: -651365647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_19
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 552
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bec7a49d212c404b83da34208009f1c
+      internalID: -1165493701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_20
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 564
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5116a65f4015e4ffda1a7a0c1470af9f
+      internalID: -1865012531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_21
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 559
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f7d44ac505f49afa2cd7ff17b2fc39
+      internalID: -1063423383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_22
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 570
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d8045658fbd41b6b234d17e44a7f25
+      internalID: 919373459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_23
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 564
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d94bbb4610048e3915292cfd1e9578
+      internalID: 1928456832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_24
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 558
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1da6e9fd823d4609afead20ea18969b
+      internalID: 1760935885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_25
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 77
+        width: 515
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b303f27bec804415adf8569daf5f8a7
+      internalID: -761923610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 77
+        width: 474
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3efe080877f145d28c9c934e21a9e49
+      internalID: 162950669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_27
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 371
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebeafacbc3b1a4c62becd61fb2c64584
+      internalID: -106847285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bronze-silver-gold-stars-3-styles_28
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 100
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828d4fd8f9b6842b48bc5f5fe3f75b8d
+      internalID: -1065572259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bronze-silver-gold-stars-3-styles_0: -547458513
+      bronze-silver-gold-stars-3-styles_1: -696324257
+      bronze-silver-gold-stars-3-styles_10: -245434727
+      bronze-silver-gold-stars-3-styles_11: -602827804
+      bronze-silver-gold-stars-3-styles_12: 297169450
+      bronze-silver-gold-stars-3-styles_13: 1094159088
+      bronze-silver-gold-stars-3-styles_14: -1978301585
+      bronze-silver-gold-stars-3-styles_15: 1113826954
+      bronze-silver-gold-stars-3-styles_16: -2077816648
+      bronze-silver-gold-stars-3-styles_17: -1489729529
+      bronze-silver-gold-stars-3-styles_18: -651365647
+      bronze-silver-gold-stars-3-styles_19: -1165493701
+      bronze-silver-gold-stars-3-styles_2: -494663470
+      bronze-silver-gold-stars-3-styles_20: -1865012531
+      bronze-silver-gold-stars-3-styles_21: -1063423383
+      bronze-silver-gold-stars-3-styles_22: 919373459
+      bronze-silver-gold-stars-3-styles_23: 1928456832
+      bronze-silver-gold-stars-3-styles_24: 1760935885
+      bronze-silver-gold-stars-3-styles_25: -761923610
+      bronze-silver-gold-stars-3-styles_26: 162950669
+      bronze-silver-gold-stars-3-styles_27: -106847285
+      bronze-silver-gold-stars-3-styles_28: -1065572259
+      bronze-silver-gold-stars-3-styles_3: -496427373
+      bronze-silver-gold-stars-3-styles_4: -869578233
+      bronze-silver-gold-stars-3-styles_5: -1147845363
+      bronze-silver-gold-stars-3-styles_6: -1550544394
+      bronze-silver-gold-stars-3-styles_7: 1164898954
+      bronze-silver-gold-stars-3-styles_8: -1298207267
+      bronze-silver-gold-stars-3-styles_9: 616176104
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
